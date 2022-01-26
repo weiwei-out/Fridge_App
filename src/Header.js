@@ -15,7 +15,7 @@ function Header() {
               Items
             </Nav.Link>
             <Nav.Link as={Link} to="/Receipts" activeClassName="active">
-              Receipts
+              TEST
             </Nav.Link>
             <Nav.Link as={Link} to="/Groceries" activeClassName="active">
               Add Groceries

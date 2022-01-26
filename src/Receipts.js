@@ -4,7 +4,7 @@ import React from "react";
 function Receipts() {
   return (
     <>
-      <h1>Plzzzzz fcking work</h1>
+      <h1>TEST</h1>
     </>
   );
 }
